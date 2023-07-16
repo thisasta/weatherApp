@@ -1,0 +1,26 @@
+@font-face {
+    font-family: "Kayak";
+    src: url("./font/KayakSansRegular.otf");
+}
+
+* {
+    font-family: "Kayak";
+}
+
+.weatherIcon {
+    display: flex;
+    justify-content: center;
+    height: 30%;
+}
+
+.location {
+    display: flex;
+    font-size: 90px;
+    justify-content: center;
+}
+
+.temperature {
+    display: flex;
+    font-size: 90px;
+    justify-content: center;
+}
